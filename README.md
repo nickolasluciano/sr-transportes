@@ -18,7 +18,7 @@ O uso desse programa é gratuito, sinta-se avontade para usar o código da forma
 <br>
 
 <p align="center">
-  <img alt="LandingPage SR Transportes" src=".github/preview.jpg" width="100%">
+  <img alt="LandingPage SR Transportes" src=".github/preview.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -28,12 +28,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Nicepages
 
 ## 💻 Projeto
 
-O PasswordGen é um gerador de senhas online, onde você pode escolher a complexidade da sua senha.
+A landingpage para a SR Transportes foi um projeto feito com intuito de captar clientes para a transportadora.
 
-- [Acesse o projeto finalizado, online](https://nickolasluciano.github.io/passwordgen)
+- [Acesse o projeto finalizado, online](https://nickolasluciano.github.io/sr-transportes)
 
 ## :memo: Licença
 
